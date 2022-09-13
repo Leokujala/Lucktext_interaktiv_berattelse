@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lucktext_interaktiv_berattelse/1.0.0": {
+        "runtime": {
+          "Lucktext_interaktiv_berattelse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lucktext_interaktiv_berattelse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
